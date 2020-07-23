@@ -10,6 +10,6 @@
 * Are you tired of setting up a binomial or gaussian distribution for your statistics project? Well here is an API that can help you with that. 
 * Created under The MIT License (Open Source Initiative) 
 * Link to the API - https://pypi.org/project/olles-Normal-and-Binomial-distributions/#files
-* * Was part of the Udacity program in Machine Learning Engineering 
+* First project in the Machine Learning Engineer Nanodegree by Udacity
 
 Cheers. 
